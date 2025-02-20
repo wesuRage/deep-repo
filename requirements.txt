@@ -1,0 +1,5 @@
+ollama
+GitPython
+openai
+markdown_pdf
+pyfiglet
